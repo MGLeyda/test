@@ -61,3 +61,4 @@ const WithMaterialUI = () => {
 };
 
 ReactDOM.render(<WithMaterialUI />, document.getElementById('root'));
+export default IndexPage
